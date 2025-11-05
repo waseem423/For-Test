@@ -7,3 +7,12 @@ C:\Users\Admin\source\repos\Bank System Bussiness Layer\obj\Debug\Bank System Bu
 C:\Users\Admin\source\repos\Bank System Bussiness Layer\obj\Debug\Bank Sys.9F0E9D26.Up2Date
 C:\Users\Admin\source\repos\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.dll
 C:\Users\Admin\source\repos\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.pdb
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\bin\Debug\Bank System Bussiness Layer.dll
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\bin\Debug\Bank System Bussiness Layer.pdb
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\bin\Debug\Bank System Data Access Layer.dll
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\bin\Debug\Bank System Data Access Layer.pdb
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\obj\Debug\Bank Sys.9F0E9D26.Up2Date
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.dll
+C:\Users\Admin\source\repos\Bank\Bank System Bussiness Layer\obj\Debug\Bank System Bussiness Layer.pdb
