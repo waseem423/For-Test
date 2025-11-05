@@ -1,0 +1,27 @@
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Presentaion Layer.exe.config
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Presentaion Layer.exe
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Presentaion Layer.pdb
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Bussiness Layer.dll
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Bussiness Layer.pdb
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank System Presentaion Layer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Login.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank System Presentaion Layer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank System Presentaion Layer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank Sys.AD3F62A6.Up2Date
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank System Presentaion Layer.exe
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank System Presentaion Layer.pdb
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Data Access Layer.dll
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\bin\Debug\Bank System Data Access Layer.pdb
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.BankSystem.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.AddEidtUser.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.User_s_Permissions.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Delete_User.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.AddEditClient.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Delete_Client.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Edit_Permissions.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Tranfer.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Deposit.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.Withdraw.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.TransactionsLog.resources
+C:\Users\Admin\source\repos\Bank System Presentaion Layer\obj\Debug\Bank_System_Presentaion_Layer.ChangePassword.resources
