@@ -44,6 +44,7 @@
     <Compile Include="clsClientsDataAccess.cs" />
     <Compile Include="clsCountriesDataAccess.cs" />
     <Compile Include="clsCurrencyDataAccess.cs" />
+    <Compile Include="clsForTestDataAccess.cs" />
     <Compile Include="clsLoginLogDataAccess.cs" />
     <Compile Include="clsPersonDataAccess.cs" />
     <Compile Include="clsTransactionLogDataAccess.cs" />

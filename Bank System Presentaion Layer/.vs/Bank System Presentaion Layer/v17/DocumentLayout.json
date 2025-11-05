@@ -1,166 +1,165 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank\\bank system data access layer\\clsfortestdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|c:\\users\\admin\\source\\repos\\bank\\bank system presentaion layer\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064A9509-008F-4688-9251-FB5C4D8FA8EF}|..\\Bank System Bussiness Layer\\Bank System Bussiness Layer.csproj|c:\\users\\admin\\source\\repos\\bank system bussiness layer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064A9509-008F-4688-9251-FB5C4D8FA8EF}|..\\Bank System Bussiness Layer\\Bank System Bussiness Layer.csproj|c:\\users\\admin\\source\\repos\\bank system bussiness layer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeidtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clspersondataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clstransactionlogdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clsbanksystemdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:tranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:transactionslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064A9509-008F-4688-9251-FB5C4D8FA8EF}|..\\Bank System Bussiness Layer\\Bank System Bussiness Layer.csproj|c:\\users\\admin\\source\\repos\\bank system bussiness layer\\clstransactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clsloginlogdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064A9509-008F-4688-9251-FB5C4D8FA8EF}|..\\Bank System Bussiness Layer\\Bank System Bussiness Layer.csproj|c:\\users\\admin\\source\\repos\\bank system bussiness layer\\clsloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clsclientsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\banksystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\banksystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:banksystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E65CE-9850-4D63-96D7-B236EE135829}|..\\Bank System Data Access Layer\\Bank System Data Access Layer.csproj|c:\\users\\admin\\source\\repos\\bank system data access layer\\clscountriesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064A9509-008F-4688-9251-FB5C4D8FA8EF}|..\\Bank System Bussiness Layer\\Bank System Bussiness Layer.csproj|c:\\users\\admin\\source\\repos\\bank system bussiness layer\\clsclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:delete client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeditclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:edit permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeidtuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeidtuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeidtuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:delete user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:addeditclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06377741-2A29-47E5-8E4F-F8661FD19D49}|Bank System Presentaion Layer.csproj|solutionrelative:user\u0027s permissions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsUsersDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsPersonDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsTransactionLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsLoginLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsClientsDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsCountriesDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,15 +169,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "clsForTestDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Data Access Layer\\clsForTestDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsForTestDataAccess.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Data Access Layer\\clsForTestDataAccess.cs",
+              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsForTestDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:04:12.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddEidtUser.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEidtUser.cs",
               "RelativeDocumentMoniker": "AddEidtUser.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEidtUser.cs",
               "RelativeToolTip": "AddEidtUser.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,36 +198,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 31,
               "Title": "clsUsers.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsUsers.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Bussiness Layer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Bussiness Layer\\clsUsers.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsUsers.cs",
-              "RelativeToolTip": "..\\Bank System Bussiness Layer\\clsUsers.cs",
+              "RelativeToolTip": "..\\..\\Bank System Bussiness Layer\\clsUsers.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T07:33:22.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T07:33:22.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 32,
               "Title": "clsUsersDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsUsersDataAccess.cs",
               "ViewState": "AQIAAM0AAAAAAAAAAAAuwM0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T10:49:22.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankSystem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.cs",
               "RelativeDocumentMoniker": "BankSystem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.cs [Design]",
               "RelativeToolTip": "BankSystem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T08:36:00.62Z",
@@ -223,71 +234,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "BankSystem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.cs",
               "RelativeDocumentMoniker": "BankSystem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.cs",
               "RelativeToolTip": "BankSystem.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAB0DAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T15:49:47.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T15:49:47.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 33,
               "Title": "clsPerson.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsPerson.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Bussiness Layer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Bussiness Layer\\clsPerson.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsPerson.cs",
-              "RelativeToolTip": "..\\Bank System Bussiness Layer\\clsPerson.cs",
+              "RelativeToolTip": "..\\..\\Bank System Bussiness Layer\\clsPerson.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAADIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T06:13:40.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AddEidtUser.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEidtUser.cs",
               "RelativeDocumentMoniker": "AddEidtUser.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.cs [Design]",
-              "RelativeToolTip": "AddEidtUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\AddEidtUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T12:59:42.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 34,
               "Title": "clsPersonDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsPersonDataAccess.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAADEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T06:16:48.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 35,
               "Title": "clsTransactionLogDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsTransactionLogDataAccess.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAuwC4AAACtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T06:26:33.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "GlobalVariable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\GlobalVariable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\GlobalVariable.cs",
               "RelativeDocumentMoniker": "GlobalVariable.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\GlobalVariable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\GlobalVariable.cs",
               "RelativeToolTip": "GlobalVariable.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +305,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Withdraw.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Withdraw.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Withdraw.cs",
               "RelativeDocumentMoniker": "Withdraw.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Withdraw.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Withdraw.cs",
               "RelativeToolTip": "Withdraw.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAIwBwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,23 +317,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 36,
               "Title": "clsBankSystemDataAccessSettings.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsBankSystemDataAccessSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T10:50:04.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Login.cs",
               "RelativeToolTip": "Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,44 +341,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T19:54:31.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Withdraw.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Withdraw.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Withdraw.cs",
               "RelativeDocumentMoniker": "Withdraw.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Withdraw.cs [Design]",
-              "RelativeToolTip": "Withdraw.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Withdraw.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T08:23:38.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "Deposit.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Deposit.cs",
               "RelativeDocumentMoniker": "Deposit.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Deposit.cs [Design]",
-              "RelativeToolTip": "Deposit.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Deposit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T08:05:42.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "Deposit.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Deposit.cs",
               "RelativeDocumentMoniker": "Deposit.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Deposit.cs",
               "RelativeToolTip": "Deposit.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAowBsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "Tranfer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Tranfer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Tranfer.cs",
               "RelativeDocumentMoniker": "Tranfer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Tranfer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Tranfer.cs",
               "RelativeToolTip": "Tranfer.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAkwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,44 +398,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "Tranfer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Tranfer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Tranfer.cs",
               "RelativeDocumentMoniker": "Tranfer.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Tranfer.cs [Design]",
-              "RelativeToolTip": "Tranfer.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Tranfer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T07:21:29.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 15,
               "Title": "TransactionsLog.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\TransactionsLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\TransactionsLog.cs",
               "RelativeDocumentMoniker": "TransactionsLog.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\TransactionsLog.cs [Design]",
-              "RelativeToolTip": "TransactionsLog.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\TransactionsLog.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T07:53:35.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "ChangePassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\ChangePassword.cs",
               "RelativeDocumentMoniker": "ChangePassword.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\ChangePassword.cs [Design]",
-              "RelativeToolTip": "ChangePassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\ChangePassword.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T08:07:33.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 16,
               "Title": "TransactionsLog.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\TransactionsLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\TransactionsLog.cs",
               "RelativeDocumentMoniker": "TransactionsLog.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\TransactionsLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\TransactionsLog.cs",
               "RelativeToolTip": "TransactionsLog.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA7wB8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,59 +443,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "clsTransactionLog.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsTransactionLog.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Bussiness Layer\\clsTransactionLog.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Bussiness Layer\\clsTransactionLog.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsTransactionLog.cs",
-              "RelativeToolTip": "..\\Bank System Bussiness Layer\\clsTransactionLog.cs",
+              "RelativeToolTip": "..\\..\\Bank System Bussiness Layer\\clsTransactionLog.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAACUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T06:26:10.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "clsLoginLogDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsLoginLogDataAccess.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAEsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T21:37:48.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "clsLoginLog.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsLoginLog.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Bussiness Layer\\clsLoginLog.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Bussiness Layer\\clsLoginLog.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsLoginLog.cs",
-              "RelativeToolTip": "..\\Bank System Bussiness Layer\\clsLoginLog.cs",
+              "RelativeToolTip": "..\\..\\Bank System Bussiness Layer\\clsLoginLog.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T21:35:04.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "clsClientsDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsClientsDataAccess.cs",
               "ViewState": "AQIAAKIBAAAAAAAAAAAmwL8BAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T06:22:19.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 17,
               "Title": "BankSystem.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.Designer.cs",
               "RelativeDocumentMoniker": "BankSystem.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\BankSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\BankSystem.Designer.cs",
               "RelativeToolTip": "BankSystem.Designer.cs",
               "ViewState": "AQIAAGUDAAAAAAAAAAAswHYDAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -494,35 +504,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "clsCountriesDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
-              "RelativeToolTip": "..\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
+              "RelativeToolTip": "..\\..\\Bank System Data Access Layer\\clsCountriesDataAccess.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T21:25:10.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 42,
               "Title": "clsClients.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsClients.cs",
-              "RelativeDocumentMoniker": "..\\Bank System Bussiness Layer\\clsClients.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bank System Bussiness Layer\\clsClients.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Bussiness Layer\\clsClients.cs",
-              "RelativeToolTip": "..\\Bank System Bussiness Layer\\clsClients.cs",
+              "RelativeToolTip": "..\\..\\Bank System Bussiness Layer\\clsClients.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwFMAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T06:14:14.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 18,
               "Title": "Delete Client.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete Client.cs",
               "RelativeDocumentMoniker": "Delete Client.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete Client.cs",
               "RelativeToolTip": "Delete Client.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAuwDQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -530,33 +540,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "Edit Permissions.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Edit Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Edit Permissions.cs",
               "RelativeDocumentMoniker": "Edit Permissions.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Edit Permissions.cs [Design]",
-              "RelativeToolTip": "Edit Permissions.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Edit Permissions.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T11:37:24.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
               "Title": "Delete Client.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete Client.cs",
               "RelativeDocumentMoniker": "Delete Client.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete Client.cs [Design]",
-              "RelativeToolTip": "Delete Client.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Delete Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T10:01:43.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 21,
               "Title": "AddEditClient.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEditClient.Designer.cs",
               "RelativeDocumentMoniker": "AddEditClient.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEditClient.Designer.cs",
               "RelativeToolTip": "AddEditClient.Designer.cs",
               "ViewState": "AQIAANQAAAAAAAAAAAAowOUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -564,11 +574,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 22,
               "Title": "Edit Permissions.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Edit Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Edit Permissions.cs",
               "RelativeDocumentMoniker": "Edit Permissions.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Edit Permissions.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Edit Permissions.cs",
               "RelativeToolTip": "Edit Permissions.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAQwCMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -576,11 +586,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 28,
               "Title": "AddEditClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEditClient.cs",
               "RelativeDocumentMoniker": "AddEditClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEditClient.cs",
               "RelativeToolTip": "AddEditClient.cs",
               "ViewState": "AQIAALwAAAAAAAAAAAAUwMoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,22 +598,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 27,
               "Title": "AddEditClient.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEditClient.cs",
               "RelativeDocumentMoniker": "AddEditClient.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEditClient.cs [Design]",
-              "RelativeToolTip": "AddEditClient.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\AddEditClient.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T19:26:01.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 25,
               "Title": "Delete User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete User.cs",
               "RelativeDocumentMoniker": "Delete User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete User.cs",
               "RelativeToolTip": "Delete User.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -611,22 +621,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 26,
               "Title": "Delete User.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Delete User.cs",
               "RelativeDocumentMoniker": "Delete User.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Delete User.cs [Design]",
-              "RelativeToolTip": "Delete User.cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\Delete User.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T14:16:00.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 30,
               "Title": "User\u0027s Permissions .cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
               "RelativeDocumentMoniker": "User\u0027s Permissions .cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
               "RelativeToolTip": "User\u0027s Permissions .cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAUwEIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -634,22 +644,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 24,
               "Title": "User\u0027s Permissions .cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\User\u0027s Permissions .cs",
               "RelativeDocumentMoniker": "User\u0027s Permissions .cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\User\u0027s Permissions .cs [Design]",
-              "RelativeToolTip": "User\u0027s Permissions .cs [Design]",
+              "RelativeToolTip": "..\\..\\Bank System Presentaion Layer\\User\u0027s Permissions .cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T20:09:39.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 23,
               "Title": "AddEidtUser.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEidtUser.Designer.cs",
               "RelativeDocumentMoniker": "AddEidtUser.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\AddEidtUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\AddEidtUser.Designer.cs",
               "RelativeToolTip": "AddEidtUser.Designer.cs",
               "ViewState": "AQIAABIBAAAAAAAAAAAQwCwBAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,27 +667,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank\\Bank System Presentaion Layer\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T09:06:51.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "Login.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bank System Presentaion Layer\\Login.Designer.cs",
-              "RelativeToolTip": "Login.Designer.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAAwG4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:54:26.419Z"
             }
           ]
         }
